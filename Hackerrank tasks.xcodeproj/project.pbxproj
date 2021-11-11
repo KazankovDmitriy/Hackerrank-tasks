@@ -24,6 +24,7 @@
 		81DCD136273D10C30050A21E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81DCD139273D10C30050A21E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81DCD13B273D10C30050A21E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81DCD141273D7D0D0050A21E /* After GIT.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "After GIT.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				81DCD136273D10C30050A21E /* Assets.xcassets */,
 				81DCD138273D10C30050A21E /* LaunchScreen.storyboard */,
 				81DCD13B273D10C30050A21E /* Info.plist */,
+				81DCD141273D7D0D0050A21E /* After GIT.playground */,
 			);
 			path = "Hackerrank tasks";
 			sourceTree = "<group>";
